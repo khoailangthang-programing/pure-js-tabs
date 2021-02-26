@@ -1,0 +1,20 @@
+.closed {
+  display: none;
+}
+.unactive {
+  color: #888;
+}
+#wrapper {
+  background: #555;
+  max-width: 800px;
+}
+button {
+  border: none;
+  width: 70px;
+  height: 40px;
+  margin: 8px;
+}
+button:hover {
+	background: #ddd;
+}
+
